@@ -84,6 +84,7 @@ Version 1.0 - Upload Smarter, Not Harder
       Rate Limiting: Dynamic delays based on file size
       Timeout Handling: 5-minute timeout for large files
       Error Logging: Detailed logs with emojis for readability
+      verbose enabled in terminal so you can see everything on the fly.
 
 
       Commands
