@@ -1,10 +1,18 @@
 🚀 Multi-Step Uploader Bot v1.0 - Complete Feature Showcase
+
+
 📂 Core Upload Engine
-🌳 Recursive Folder Traversal: Uploads entire directory trees with infinite depth
-🎯 Intelligent File Classification: Auto-separates images from documents for optimal handling
-⚡ Async Architecture: Non-blocking uploads with parallel-ready design
-🛡️ Path Security: Validates and sanitizes all paths to prevent directory traversal attacks
-🖼️ Media Management Mastery
+
+      🌳 Recursive Folder Traversal: Uploads entire directory trees with infinite depth
+
+  🎯 Intelligent File Classification: Auto-separates images from documents for optimal handling
+
+  ⚡ Async Architecture: Non-blocking uploads with parallel-ready design
+
+  🛡️ Path Security: Validates and sanitizes all paths to prevent directory traversal attacks
+
+  🖼️ Media Management Mastery
+
 Image Features
 📦 Album Mode (/album on): Groups images into sleek 10-photo albums
 🖼️ Individual Mode (/album off): Sends photos one-by-one for granular control
